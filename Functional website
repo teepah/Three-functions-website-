@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Shavena's Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Hi, I'm Shavena</h1>
+    <p>Aspiring Technologist & Music Lover</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>I love creating things — from software to songs. I'm learning web development and working on projects that stretch my mind and heart.</p>
+  </section>
+
+  <section class="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li>To-Do List App (HTML/CSS/JS)</li>
+      <li>Number Guessing Game (Python)</li>
+      <li>Currency Converter (Python GUI)</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Email: your.email@example.com</p>
+    <p>Instagram: @shavena</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Shavena. All rights reserved.</p>
+  </footer>
+</body>
+</html
